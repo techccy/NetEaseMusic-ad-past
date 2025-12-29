@@ -80,3 +80,10 @@ MARKET_PKGS = [
     "com.huawei.appmarket",
     ...
 ]
+
+## 📄 License
+
+此项目遵循 [MIT License](LICENSE) 开源协议。
+
+```text
+Copyright (c) 2025 CCY
